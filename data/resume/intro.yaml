@@ -1,0 +1,19 @@
+
+name:
+  given: João Paulo
+  middle: Pavão
+  last: Carreiro
+phone:
+  - (+351) 910 022 457
+  - (+44) (0) 756 208 1872
+email: joaopaulocarreiro@gmail.com
+dateOfBirth:
+  day: 11
+  month: 9
+  year: 1977
+nationality: Portuguese
+links:
+  - linkedIn:
+      url: https://www.linkedin.com/in/joaopaulocarreiro
+  - github:
+      url: https://github.com/joaopaulocarreiro

@@ -1,0 +1,19 @@
+position: Research Trainee (Leonardo da Vinci)
+company: NXP Research
+country: NL
+startDate:
+  day: 
+  month: 02
+  year: 2007
+endDate:
+  day: 
+  month: 12
+  year: 2007
+description:
+  - Co-development of a GCC backend for targeting a VLIW computer architecture called EVP (Embedded Vector Processor)
+  - Development for the support of the vector instruction set of the EVP in the GCC backend
+  - Development for EVP intrinsics, hardware loops and contributions on the delay slot filler
+  - Development of a tool to generate some table-related configuration required for GCC. C.
+
+  
+

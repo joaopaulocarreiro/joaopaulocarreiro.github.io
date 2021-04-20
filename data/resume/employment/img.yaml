@@ -1,0 +1,20 @@
+position: Application Specialist
+company: Imagination Technologies
+country: UK
+startDate:
+  day: 
+  month: 9
+  year: 2008
+endDate:
+  day: 
+  month: 10
+  year: 2009
+description:
+  - Product support and helpdesk (technical support on the integration of GPU device drivers). OpenGLES 1.1 / 2.0, OpenVG and EGL.
+  - Analysis and porting of C/C++ applications into Linux and WinCE for testing/benchmarking purposes
+  - Benchmarking activities. Development of specific applications for performance measuring of the GPUs. C/C++.
+  - Customer training (In june 2009, I was in Taiwan for an on-site customer 5-day training session on the GPU’s device drivers)
+
+
+  
+
