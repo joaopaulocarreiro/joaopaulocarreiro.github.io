@@ -1,0 +1,15 @@
+entity: OutSystems
+name: OutSystems Associate Reactive Developer 011
+description:
+active: true
+date:
+  day: 18
+  month: 2
+  year: 2021
+certificate:
+  - file: docs/resume/certifications/outs-cert-ard_O11.pdf
+exams:
+  - name: Associate Reactive Developer Certification
+    file: docs/resume/certifications/outs-exam-ard_O11.pdf
+    
+  

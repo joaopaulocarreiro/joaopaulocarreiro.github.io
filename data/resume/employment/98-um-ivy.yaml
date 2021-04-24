@@ -1,0 +1,17 @@
+position: Researcher, IVY Workbench
+company: University of Minho
+country: Portugal
+startDate:
+  day: 
+  month: 1
+  year: 2007
+endDate:
+  day: 
+  month: 1
+  year: 2006
+description:
+  - Development of a source-to-source compiler (parser, middleware and backend) that translates models written in a custom defined interactive language (MAL - Modal Action Logic) to the NuSMS specification.  LRC, GCC, C.
+  - Development of a visual editor that allows users to build the MAL models and a plugin framework to extend the editor with additional tools. Java.
+
+
+

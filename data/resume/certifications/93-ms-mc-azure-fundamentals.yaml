@@ -1,0 +1,17 @@
+entity: Microsoft
+name: "Microsoft Certified: Azure Fundamentals"
+active: true
+date:
+  day: 18
+  month: 8
+  year: 2020
+certificate:
+  - number: H494-1481
+exams:
+  - name: Microsoft Azure Fundamentals (AZ-900)
+    date: 
+      day: 18
+      month: 8
+      year: 2020
+    
+  

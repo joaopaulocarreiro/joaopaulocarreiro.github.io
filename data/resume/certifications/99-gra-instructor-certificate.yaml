@@ -1,0 +1,11 @@
+entity: Região Autónoma dos Açores
+name: "Official Pedagogical Instructor Certificate (Portugal)"
+active: true
+date:
+  day: 2
+  month: 3
+  year: 2010
+certificate:
+  - number: EDF 6593/2010
+
+  

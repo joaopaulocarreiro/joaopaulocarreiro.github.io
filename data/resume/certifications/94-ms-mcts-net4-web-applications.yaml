@@ -1,0 +1,16 @@
+entity: Microsoft
+name: "Microsoft® Certified Technology Specialist: .NET Framework 4, Web Applications"
+active: true
+date:
+  day: 10
+  month: 8
+  year: 2012
+certificate:
+  - number: E914-2960
+exams:
+  name: "TS: Web Applications Development with Microsoft .NET Framework 4 (515)"
+  date:
+    day: 10
+    month: 8
+    year: 2012
+  

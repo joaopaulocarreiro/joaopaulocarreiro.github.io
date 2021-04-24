@@ -1,0 +1,16 @@
+entity: Microsoft
+name: "Microsoft® Certified Professional Developer: SharePoint Developer 2010"
+active: false
+date:
+  day: 8
+  month: 8
+  year: 2012
+certificate:
+  - number: D972-4366
+exams:
+  - name: "TS: Microsoft SharePoint 2010, Application Development (573)"
+    date:
+      day: 6
+      month: 8
+      year: 2012
+  

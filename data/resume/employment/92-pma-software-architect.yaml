@@ -1,0 +1,22 @@
+position: Software Architect
+company: PMAçores
+country: Portugal
+startDate:
+  day: 
+  month: 6
+  year: 2017
+endDate:
+  day: 
+  month: 3
+  year: 2019
+description:
+  - "Designed a package system and developed a CLI tool for an application generation process. This tool takes one or more packages and generates all the required artifacts for the backend, including data model, web api and authentication. Packages are defined as a set of assets, including, but not limited to, OpenAPI spec files.  Node.js, Sequelize, OpenAPI. Team lead"
+  - "Designed and developed a set of Angular component libraries. Angular, Typescript"
+  - "Designed and developed a set of Node.JS libraries. Each library included code coverage and unit testing. Istanbul and Mocha. JavaScript"
+  - "Detached the UI component of a legacy application in order to have it run in a cloud infrastructure. HTML/JS/CSS, Node.js"
+  - "Team lead for the refactoring of a legacy UI system based on HTML/JS/CSS generated on the server to an Angular set of modules, this project made use of the Angular libraries mentioned above. Angular, Typescript."
+  - "Co-promoted and organized an in-house programming hackathon where teams explored a specific technological motif applied to the current business processes (3 editions: Voice Recognition, TensorFlow, AR)."
+  - "Liaison between the Azores office and the parent company’s HQ (PMA - Boston, USA)"
+  
+  
+

@@ -1,0 +1,16 @@
+entity: Microsoft
+name: "Microsoft® Certified Technology Specialist: SharePoint 2010, Application Development"
+active: true
+date:
+  day: 6
+  month: 8
+  year: 2012
+certificate:
+  - number: D973-2022
+exams:
+  - name: "TS: Microsoft SharePoint 2010, Application Development (573)"
+    date:
+      day: 6
+      month: 8
+      year: 2012
+  

@@ -1,0 +1,16 @@
+entity: Microsoft
+name: "Microsoft® Certified Technology Specialist: Microsoft Windows SharePoint Services 3.0, Configuration"
+active: false
+date:
+  day: 25
+  month: 6
+  year: 2010
+certificate:
+  - number: C064-6590
+exams:
+  - name: "TS: Windows SharePoint Services 3.0, Configuring (631)"
+    date:
+      day: 25
+      month: 6
+      year: 2010
+  

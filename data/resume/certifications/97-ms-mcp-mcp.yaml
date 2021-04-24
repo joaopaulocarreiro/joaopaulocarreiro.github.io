@@ -1,0 +1,10 @@
+entity: Microsoft
+name: "Microsoft Certified Professional: Microsoft Certified Professional"
+active: true
+date:
+  day: 10
+  month: 8
+  year: 2012
+certificate:
+  - number: E914-2960
+  

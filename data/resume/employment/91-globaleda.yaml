@@ -1,0 +1,19 @@
+position: Senior Software Developer
+company: Globaleda
+country: Portugal
+startDate:
+  day: 24
+  month: 4
+  year: 2019
+endDate:
+  day: 30
+  month: 11
+  year: 2019
+description:
+  - Planning, analysis, preparation and development of the new web portal for the Regional Government of the Azores (Java, Liferay, Elasticsearch, Keycloak).
+  - Development of a set of tools for data migration between the old portal and the new portal, consisting of a Node.js CLI tool and a Liferay API Rest portlet. (Node.js, Java).
+  - Responsible for client updates, presentations and custom integrations.
+  - Team lead (management & support).
+
+  
+
